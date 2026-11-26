@@ -1,0 +1,16 @@
+# Нормализация переводов строк между Windows и Linux
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.sql text eol=lf
+*.yml text eol=lf
+*.svg text eol=lf
+
+# Windows-скрипты должны остаться в CRLF, иначе cmd их не съест
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Двоичные файлы не трогаем
+*.png binary
+*.jpg binary
+*.exe binary

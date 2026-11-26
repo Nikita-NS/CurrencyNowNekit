@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="USD/RUB">
+<title>USD/RUB</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A1120"/><stop offset="1" stop-color="#101C30"/></linearGradient>
+<linearGradient id="area0" gradientUnits="userSpaceOnUse" x1="0" y1="236.33" x2="0" y2="592"><stop offset="0" stop-color="#5B9DFF" stop-opacity="0.55"/><stop offset="1" stop-color="#5B9DFF" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<rect x="63" y="55" width="54" height="54" rx="27" fill="#5B9DFF"/>
+<rect x="1116.29" y="102" width="99.71" height="32" rx="16" fill="#3DDC97" fill-opacity="0.140"/>
+<line x1="64" y1="592" x2="1204" y2="592" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="64" y1="563.57" x2="1204" y2="563.57" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="64" y1="477.99" x2="1204" y2="477.99" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="64" y1="392.41" x2="1204" y2="392.41" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="64" y1="306.83" x2="1204" y2="306.83" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="64" y1="221.25" x2="1204" y2="221.25" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="263.33" y1="592" x2="263.33" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="541.33" y1="592" x2="541.33" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="819.33" y1="592" x2="819.33" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="1097.33" y1="592" x2="1097.33" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<polygon points="78,447.71 96.53,411.61 115.07,473.16 133.6,466.47 152.13,432.43 170.67,512.78 189.2,504.64 207.73,524.23 226.27,537.98 244.8,518.29 263.33,499.06 281.87,480.64 300.4,559.67 318.93,509.21 337.47,525.63 356,520.8 374.53,549.6 393.07,526.78 411.6,499.36 430.13,449.21 448.67,498.22 467.2,501.1 485.73,427.17 504.27,391.42 522.8,433.67 541.33,446.29 559.87,433.15 578.4,403.8 596.93,372.72 615.47,415.5 634,418.61 652.53,396.91 671.07,454.49 689.6,407.65 708.13,388.59 726.67,387.22 745.2,483.96 763.73,414.28 782.27,414.37 800.8,391.39 819.33,427.87 837.87,388.9 856.4,408.44 874.93,339.56 893.47,319.3 912,353.4 930.53,308.76 949.07,317.72 967.6,291.64 986.13,250.47 1004.67,264.69 1023.2,261.99 1041.73,276.5 1060.27,248.48 1078.8,264.92 1097.33,275.25 1115.87,270.7 1134.4,236.33 1152.93,271.02 1171.47,262.19 1190,323.27 1190,592 78,592" fill="url(#area0)"/>
+<polyline points="78,447.71 96.53,411.61 115.07,473.16 133.6,466.47 152.13,432.43 170.67,512.78 189.2,504.64 207.73,524.23 226.27,537.98 244.8,518.29 263.33,499.06 281.87,480.64 300.4,559.67 318.93,509.21 337.47,525.63 356,520.8 374.53,549.6 393.07,526.78 411.6,499.36 430.13,449.21 448.67,498.22 467.2,501.1 485.73,427.17 504.27,391.42 522.8,433.67 541.33,446.29 559.87,433.15 578.4,403.8 596.93,372.72 615.47,415.5 634,418.61 652.53,396.91 671.07,454.49 689.6,407.65 708.13,388.59 726.67,387.22 745.2,483.96 763.73,414.28 782.27,414.37 800.8,391.39 819.33,427.87 837.87,388.9 856.4,408.44 874.93,339.56 893.47,319.3 912,353.4 930.53,308.76 949.07,317.72 967.6,291.64 986.13,250.47 1004.67,264.69 1023.2,261.99 1041.73,276.5 1060.27,248.48 1078.8,264.92 1097.33,275.25 1115.87,270.7 1134.4,236.33 1152.93,271.02 1171.47,262.19 1190,323.27" fill="none" stroke="#5B9DFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.100"/>
+<polyline points="78,447.71 96.53,411.61 115.07,473.16 133.6,466.47 152.13,432.43 170.67,512.78 189.2,504.64 207.73,524.23 226.27,537.98 244.8,518.29 263.33,499.06 281.87,480.64 300.4,559.67 318.93,509.21 337.47,525.63 356,520.8 374.53,549.6 393.07,526.78 411.6,499.36 430.13,449.21 448.67,498.22 467.2,501.1 485.73,427.17 504.27,391.42 522.8,433.67 541.33,446.29 559.87,433.15 578.4,403.8 596.93,372.72 615.47,415.5 634,418.61 652.53,396.91 671.07,454.49 689.6,407.65 708.13,388.59 726.67,387.22 745.2,483.96 763.73,414.28 782.27,414.37 800.8,391.39 819.33,427.87 837.87,388.9 856.4,408.44 874.93,339.56 893.47,319.3 912,353.4 930.53,308.76 949.07,317.72 967.6,291.64 986.13,250.47 1004.67,264.69 1023.2,261.99 1041.73,276.5 1060.27,248.48 1078.8,264.92 1097.33,275.25 1115.87,270.7 1134.4,236.33 1152.93,271.02 1171.47,262.19 1190,323.27" fill="none" stroke="#5B9DFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1190" cy="323.27" r="6" fill="#5B9DFF" stroke="#0A1120" stroke-width="3"/>
+<text x="90" y="91" fill="#FFFFFF" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="15" font-weight="700" text-anchor="middle">USD</text>
+<text x="132" y="94" fill="#F2F6FC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="32" font-weight="700" text-anchor="start">USD/RUB</text>
+<text x="132" y="126" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="18" font-weight="400" text-anchor="start">Доллар США · ₽ за 1 $ · за час</text>
+<text x="1216" y="86" fill="#F2F6FC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="44" font-weight="700" text-anchor="end">82,29 ₽</text>
+<text x="1166.14" y="124" fill="#3DDC97" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="18" font-weight="700" text-anchor="middle">▲ 0,09 %</text>
+<text x="1272" y="568.57" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">82,15</text>
+<text x="1272" y="482.99" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">82,20</text>
+<text x="1272" y="397.41" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">82,25</text>
+<text x="1272" y="311.83" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">82,30</text>
+<text x="1272" y="226.25" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">82,35</text>
+<text x="263.33" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">18:00</text>
+<text x="541.33" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">18:15</text>
+<text x="819.33" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">18:30</text>
+<text x="1097.33" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">18:45</text>
+<text x="64" y="668" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="15" font-weight="400" text-anchor="start">Данные: Демо-данные · 61 точка · 18:50 МСК</text>
+<text x="1216" y="668" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="15" font-weight="700" text-anchor="end">fxbot</text>
+</svg>

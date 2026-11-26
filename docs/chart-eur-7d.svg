@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="EUR/RUB">
+<title>EUR/RUB</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A1120"/><stop offset="1" stop-color="#101C30"/></linearGradient>
+<linearGradient id="area0" gradientUnits="userSpaceOnUse" x1="0" y1="236.33" x2="0" y2="592"><stop offset="0" stop-color="#B18CFF" stop-opacity="0.55"/><stop offset="1" stop-color="#B18CFF" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1280" height="720" fill="url(#bg)"/>
+<rect x="63" y="55" width="54" height="54" rx="27" fill="#B18CFF"/>
+<rect x="1116.29" y="102" width="99.71" height="32" rx="16" fill="#FF6B81" fill-opacity="0.140"/>
+<line x1="64" y1="592" x2="1204" y2="592" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="64" y1="565.2" x2="1204" y2="565.2" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="64" y1="483.17" x2="1204" y2="483.17" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="64" y1="401.14" x2="1204" y2="401.14" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="64" y1="319.11" x2="1204" y2="319.11" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="64" y1="237.08" x2="1204" y2="237.08" stroke="#1D2A42" stroke-width="1" opacity="0.850" stroke-dasharray="3 7"/>
+<line x1="112.2" y1="592" x2="112.2" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="271.06" y1="592" x2="271.06" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="429.91" y1="592" x2="429.91" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="588.77" y1="592" x2="588.77" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="747.63" y1="592" x2="747.63" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="906.48" y1="592" x2="906.48" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<line x1="1065.34" y1="592" x2="1065.34" y2="598" stroke="#2A3A57" stroke-width="1" opacity="0.900"/>
+<polygon points="78,358.75 236.86,257.62 395.71,236.33 554.57,281.93 713.43,403.55 872.29,550.04 1031.14,559.67 1190,527.3 1190,592 78,592" fill="url(#area0)"/>
+<polyline points="78,358.75 236.86,257.62 395.71,236.33 554.57,281.93 713.43,403.55 872.29,550.04 1031.14,559.67 1190,527.3" fill="none" stroke="#B18CFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.100"/>
+<polyline points="78,358.75 236.86,257.62 395.71,236.33 554.57,281.93 713.43,403.55 872.29,550.04 1031.14,559.67 1190,527.3" fill="none" stroke="#B18CFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1190" cy="527.3" r="6" fill="#B18CFF" stroke="#0A1120" stroke-width="3"/>
+<text x="90" y="91" fill="#FFFFFF" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="15" font-weight="700" text-anchor="middle">EUR</text>
+<text x="132" y="94" fill="#F2F6FC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="32" font-weight="700" text-anchor="start">EUR/RUB</text>
+<text x="132" y="126" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="18" font-weight="400" text-anchor="start">Евро · ₽ за 1 € · за 7 дней</text>
+<text x="1216" y="86" fill="#F2F6FC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="44" font-weight="700" text-anchor="end">90,15 ₽</text>
+<text x="1166.14" y="124" fill="#FF6B81" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="18" font-weight="700" text-anchor="middle">▼ 0,23 %</text>
+<text x="1272" y="570.2" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">90,1</text>
+<text x="1272" y="488.17" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">90,2</text>
+<text x="1272" y="406.14" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">90,3</text>
+<text x="1272" y="324.11" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">90,4</text>
+<text x="1272" y="242.08" fill="#93A4BC" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="end">90,5</text>
+<text x="112.2" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">20.11</text>
+<text x="271.06" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">21.11</text>
+<text x="429.91" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">22.11</text>
+<text x="588.77" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">23.11</text>
+<text x="747.63" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">24.11</text>
+<text x="906.48" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">25.11</text>
+<text x="1065.34" y="620" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="16" font-weight="400" text-anchor="middle">26.11</text>
+<text x="64" y="668" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="15" font-weight="400" text-anchor="start">Данные: Демо-данные · 8 точек · 18:50 МСК</text>
+<text x="1216" y="668" fill="#66768E" font-family="'Segoe UI', Arial, 'DejaVu Sans', 'Liberation Sans', 'sans-serif'" font-size="15" font-weight="700" text-anchor="end">fxbot</text>
+</svg>

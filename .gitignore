@@ -1,0 +1,18 @@
+# окружение
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# иде
+.idea/
+.vscode/
+*.swp
+
+# локальные артефакты
+*.log
+docs/_preview/
