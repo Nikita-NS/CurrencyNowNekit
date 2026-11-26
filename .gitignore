@@ -15,4 +15,5 @@ __pycache__/
 
 # локальные артефакты
 *.log
+logs/
 docs/_preview/
